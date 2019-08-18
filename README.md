@@ -3,7 +3,11 @@ This is a standalone java based application which is used to calculate final dis
 Java 1.7
 JUnit for Unit Tests
 
-It is implemented in java and it can be run by the script run.bat available in the root path of the project. Once we run the script, we can opt the following options:
+It is implemented in java and it can be executed and tested by the running script in given sequence:
+First we need to run setup.bat to build project.
+Then we need to run RetailDiscount.bat to execute this project.
+
+These files are available in the root path of the project. Once we run the scripts, we can opt the following options:
 Write exit to quit
 Please provide the input(s) given below...
 add_customer <customer_type>, <name> <date>		//to add customer in the given format
