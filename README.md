@@ -1,4 +1,3 @@
-Instructions
 This is a standalone java based application which is used to calculate final discounted bill from the total bill generated. We have provided the command based approach to run different utilities. Furhter information on technologies and steps is provided below:
 
 Java 1.7
